@@ -1,0 +1,8 @@
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/hw04_2.dir
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/edit_cache.dir
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/rebuild_cache.dir
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/list_install_components.dir
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/install.dir
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/install/local.dir
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/install/strip.dir
+/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_2-Qt_6_5_1-Debug/CMakeFiles/hw04_2_autogen.dir
