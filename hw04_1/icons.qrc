@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/number-one-2.png</file>
+        <file>icons/number-nine.png</file>
+        <file>icons/number-eight.png</file>
+        <file>icons/number-seven.png</file>
+        <file>icons/number-six.png</file>
+        <file>icons/number-five.png</file>
+        <file>icons/number-four.png</file>
+        <file>icons/number-three.png</file>
+        <file>icons/number-two.png</file>
+        <file>icons/number-one.png</file>
+    </qresource>
+</RCC>
