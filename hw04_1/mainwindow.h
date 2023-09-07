@@ -18,7 +18,6 @@ protected:
     QString numberToShow = "";
 private slots:
 
-    // 不同的数字按钮被按下
     void on_pushButton_1_clicked();
 
     void on_pushButton_2_clicked();
@@ -39,11 +38,9 @@ private slots:
 
     void on_pushButton_0_clicked();
 
-    // 清除所有
-    void on_pushButton_clear_clicked();
+    void on_pushButton_delete_clicked(); // 删除一位
 
-    // 删除一位
-    void on_pushButton_delete_clicked();
+    void on_pushButton_clear_clicked(); // 删除所有
 
 private:
     Ui::MainWindow *ui;

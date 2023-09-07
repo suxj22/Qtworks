@@ -14,26 +14,6 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
-void MainWindow::on_pushButton_1_clicked()
-{
-    numberToShow += "1";
-    ui->lcdNumber->display(numberToShow);
-}
-
-void MainWindow::on_pushButton_2_clicked()
-{
-    numberToShow += "2";
-    ui->lcdNumber->display(numberToShow);
-}
-
-
-void MainWindow::on_pushButton_3_clicked()
-{
-    numberToShow += "3";
-    ui->lcdNumber->display(numberToShow);
-}
-
-
 void MainWindow::on_pushButton_4_clicked()
 {
     numberToShow += "4";
@@ -86,6 +66,26 @@ void MainWindow::on_pushButton_clear_clicked()
 void MainWindow::on_pushButton_delete_clicked()
 {
     numberToShow.chop(1);
+    ui->lcdNumber->display(numberToShow);
+}
+
+void MainWindow::on_pushButton_1_clicked()
+{
+    numberToShow += "1";
+    ui->lcdNumber->display(numberToShow);
+}
+
+
+void MainWindow::on_pushButton_2_clicked()
+{
+    numberToShow += "2";
+    ui->lcdNumber->display(numberToShow);
+}
+
+
+void MainWindow::on_pushButton_3_clicked()
+{
+    numberToShow += "3";
     ui->lcdNumber->display(numberToShow);
 }
 

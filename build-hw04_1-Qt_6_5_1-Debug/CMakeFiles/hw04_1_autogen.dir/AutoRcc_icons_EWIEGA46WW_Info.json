@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_1-Qt_6_5_1-Debug/hw04_1_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_1-Qt_6_5_1-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_1-Qt_6_5_1-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1",
+	"CMAKE_SOURCE_DIR" : "/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1",
+	"INCLUDE_DIR" : "/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_1-Qt_6_5_1-Debug/hw04_1_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-seven.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-three.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-five.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-eight.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-two.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-one-2.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-one.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-nine.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-four.png",
+		"/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons/number-six.png"
+	],
+	"LOCK_FILE" : "/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_1-Qt_6_5_1-Debug/CMakeFiles/hw04_1_autogen.dir/AutoRcc_icons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "icons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icons.cpp",
+	"RCC_EXECUTABLE" : "/opt/homebrew/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/suxingjian/Documents/GitHub/Qtworks/build-hw04_1-Qt_6_5_1-Debug/CMakeFiles/hw04_1_autogen.dir/AutoRcc_icons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/suxingjian/Documents/GitHub/Qtworks/hw04_1/icons.qrc",
+	"VERBOSITY" : 0
+}
