@@ -18,7 +18,7 @@ void TemperatureMonitorMainWindow::on_dial_celsius_valueChanged(int value)
 {
     int tempFahrenheit = 32 + value * 1.8;
     ui->lcdNumber_celsius->display(value);
-    ui->dial_fahrenheit->blockSignals(true);
+    ui->dial_fahrenheit->blockSignals(true); // 防止递归调用
     ui->dial_fahrenheit->setValue(tempFahrenheit);
     ui->dial_fahrenheit->blockSignals(false);
     ui->lcdNumber_fahrenheit->display(tempFahrenheit);

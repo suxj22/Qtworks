@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-936d94f6d438ec287234.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hw05_1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hw05_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw05_1-Debug-3a8edd2ccc993e5f3a64.json",
+					"name" : "hw05_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hw05_1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hw05_1_autogen-Debug-2ef96193876b25613d64.json",
+					"name" : "hw05_1_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/suxingjian/Documents/GitHub/Qtworks/build-hw05_1-Qt_6_5_1-Debug",
+		"source" : "/Users/suxingjian/Documents/GitHub/Qtworks/hw05_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
